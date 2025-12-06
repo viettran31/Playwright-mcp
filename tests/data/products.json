@@ -1,0 +1,5 @@
+[
+  { "name": "Sample Product A", "sku": "SPA-001", "price": 9.99 },
+  { "name": "Sample Product B", "sku": "SPB-002", "price": 19.99 },
+  { "name": "Sample Product C", "sku": "SPC-003", "price": 29.99 }
+]

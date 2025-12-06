@@ -1,0 +1,4 @@
+[
+  { "email": "testuser123456@yopmail.com", "password": "123123", "role": "tenant_admin" },
+  { "email": "viewer@example.com", "password": "viewer", "role": "viewer" }
+]
